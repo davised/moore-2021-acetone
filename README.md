@@ -4,8 +4,6 @@ Additional methods for Figure 4 - Acetone monooxygenase expression map
 
 Tara Ocean Gene Atlas - https://tara-oceans.mio.osupytheas.fr/ocean-gene-atlas/
 
-To generate the data:
-
 Reference sequence:
 ```
 >OM-RGC.v2.002142823
@@ -19,6 +17,7 @@ KICEDIVLKNYEGFNFDKH
 ```
 See `OM-RGC.v2.002142823.fasta` file as well.
 
+To generate the data:
 1. Choose OM-RGCv2+T - the metatranscriptome data
 2. Input OM-RGC.v2.002142823 sequence from above
 3. Download abundances of the homologs and environmental data
